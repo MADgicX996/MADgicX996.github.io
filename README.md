@@ -1,16 +1,3 @@
-# Architecture Portfolio
-
-Frontend web app showcasing my architecture and design projects for the past 10 years.
-
----
-
-## Demo
-
-https://rihan.info
-
-##
-
----
 
 ## Stack:
 
@@ -19,13 +6,4 @@ https://rihan.info
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
 
-## Screenshots
-
----
-
-## License
-
-MIT License
-Copyright (c) 2022 Rihan
