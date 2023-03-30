@@ -15,7 +15,7 @@ function FeaturedProjects() {
     return (
         <section className="featured-projects-container">
             <div className="featured-projects-text">
-                <h3>SELECTED WORKS 2010 / 2022</h3>
+                <h3>SELECTED WORKS <br></br> SINCE 2019.</h3>
             </div>
             <div className="featured-projects-imgs">
                 <img src={projectUrl} alt="" />

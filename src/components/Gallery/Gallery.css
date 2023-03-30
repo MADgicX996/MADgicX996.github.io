@@ -3,7 +3,7 @@
     flex-wrap: wrap;
     justify-content: flex-start;
     align-items: center;
-    gap: 1.25%;
+    gap: .3%;
     width: 98%;
     margin: auto;
 }
@@ -23,10 +23,10 @@
     font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
         Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans",
         "Helvetica Neue", sans-serif;
-    background-color: rgb(240, 240, 240);
+    
     padding: 8px;
-    border-radius: 5px;
     color: black;
+    font-weight: 100;
     margin-right: 8px;
     cursor: pointer;
     transition: 0.2s ease-in-out;

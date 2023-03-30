@@ -7,18 +7,23 @@ function NavBar() {
     const navigate = useNavigate();
     return (
         <div className="nav-bar">
-            <Link className="nav-bar-link" to="/">
-                HOME
-            </Link>
             <div className="navbar-logo">
                 <img
-                    src="/images/LOGO.png"
+                    src="/images/MADGIC21.png"
                     alt="rihan-logo"
                     onClick={() => navigate("/")}
                 />
             </div>
+            <Link className="nav-bar-link" to="/gallery">
+                Projects
+            </Link>
+
             <Link className="nav-bar-link" to="/contact">
-                CONTACT
+                Contact
+            </Link>
+
+            <Link className="nav-bar-link" to="/contact">
+                About Us
             </Link>
         </div>
     );

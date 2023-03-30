@@ -24,7 +24,7 @@ function Cover() {
                         backgroundImage: `url("${coverUrl}")`,
                     }}
                 >
-                    <h1>PORTFOLIO</h1>
+                    <h1></h1>
                 </div>
                 <div className="mouse-icon-row">
                     <MouseIcon />

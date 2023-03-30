@@ -8,12 +8,12 @@
 
 .cover {
     background-image: url("../../../public/images/ATHORA_MUNICH_V1.jpg");
-    width: 98%;
-    height: 96%;
+    width: 100%;
+    height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
     filter: saturate(80%);
-    border-radius: 10px;
+    border-radius: 0px;
     display: flex;
     justify-content: center;
     align-items: center;

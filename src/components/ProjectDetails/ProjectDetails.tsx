@@ -45,11 +45,11 @@ function ProjectDetails({ projectData }: IProps) {
                         <p className="value">{projectData.client}</p>
                     </div>
                     <div className="project-fact">
-                        <p className="fact">PHASE</p>
+                        <p className="fact">STATUS</p>
                         <p className="value">{projectData.phase}</p>
                     </div>
                     <div className="project-fact">
-                        <p className="fact">PROGRAMME</p>
+                        <p className="fact">PROGRAM</p>
                         <p className="value">{projectData.programme}</p>
                     </div>
                     <div className="project-fact">

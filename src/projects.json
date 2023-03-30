@@ -10,7 +10,8 @@
         "role": "Architect / Designer",
         "programme": "Hospitality",
         "images": [
-            "https://rihanbucket.s3.amazonaws.com/bianco/092_CAVALLINO_V4_P.jpg",
+           "https://i.ibb.co/84RvGWD/1.jpg",
+            "https://i.ibb.co/qrQ9JQ3/2.jpg",
             "https://rihanbucket.s3.amazonaws.com/bianco/092_CAVALLINO_V2_P_low.jpg",
             "https://rihanbucket.s3.amazonaws.com/bianco/092_CAVALLINO_V1_P_low.jpg",
             "https://rihanbucket.s3.amazonaws.com/bianco/092_CAVALLINO_V3_P.jpg",
@@ -50,13 +51,11 @@
         "role": "Designer / Team lead",
         "programme": "Hospitality",
         "images": [
-            "https://rihanbucket.s3.amazonaws.com/benz/Nightpres.jpg",
-            "https://rihanbucket.s3.amazonaws.com/benz/170511_Abgabe_A1_Daimler-1.jpg",
-            "https://rihanbucket.s3.amazonaws.com/benz/170511_Abgabe_A1_Daimler-1.jpg",
-            "https://rihanbucket.s3.amazonaws.com/benz/interior01.jpg",
-            "https://rihanbucket.s3.amazonaws.com/benz/Daimler-floorplan2.jpg",
-            "https://rihanbucket.s3.amazonaws.com/benz/OG01.jpg",
-            "https://rihanbucket.s3.amazonaws.com/benz/Daimler-floorplan.jpg"
+           "https://i.ibb.co/c2NX4Wc/5.png",
+           "  https://i.ibb.co/tJm2wYb/6.png",
+           " https://i.ibb.co/yd7PwYk/1.png",
+           "  https://i.ibb.co/Dr7JHwZ/2.png",
+           " https://i.ibb.co/2jy0Q1C/3.png"
         ]
     },
     {
@@ -105,6 +104,7 @@
         "role": "Designer",
         "programme": "Digital",
         "images": [
+            
             "https://rihanbucket.s3.amazonaws.com/corals/MAIN.jpg",
             "https://rihanbucket.s3.amazonaws.com/corals/PROCESS.jpg",
             "https://rihanbucket.s3.amazonaws.com/corals/pres1.jpg",
